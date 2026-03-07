@@ -140,6 +140,16 @@ AI-powered system helping professionals improve CVs using real-time intelligent 
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gechjs&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gechjs&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gechjs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ##  Connect With Me
 
