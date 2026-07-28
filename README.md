@@ -1,166 +1,99 @@
-<h1 align="center">Hi 👋, I'm Gizachew Mohammed</h1>
+<div align="center">
 
-<h2 align="center">
-Full-Stack Developer • AI & Backend Engineer
-</h2>
+# Hi 👋, I'm Gizachew Mohammed
 
-<p align="center">
-Scalable Systems • Intelligent Applications • High-Performance Architecture
-</p>
+### Full-Stack Developer • AI & Backend Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4ECCA3&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+%26+Backend+Specialist;Building+Scalable+Platforms;Distributed+Systems+Developer;Problem+Solver+%26+Technology+Enthusiast" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gizachewm.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gizachew.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizachew-mohammed/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GechDev)
 
----
-
-## 🚀 About Me
-
-I am a **disciplined and detail-oriented Software Engineer** specializing in designing and building scalable, secure, and high-performance applications.
-
-I transform complex business and user problems into **efficient digital systems** through clean architecture, modern technologies, and intelligent automation.
-
-- 💻 3+ years professional development experience  
-- ⚙️ Expert in scalable backend & API systems  
-- 🤖 AI integration & intelligent platform development  
-- 🌍 Remote collaboration & production-level delivery  
-- 🚀 Focused on performance, scalability, and maintainability  
+</div>
 
 ---
 
-##  Core Competencies
+## About Me
 
-✅ Scalable Backend Architecture  
-✅ Full-Stack Web Platforms  
-✅ AI & Automation Integration  
-✅ Database Design & Optimization  
-✅ SaaS & Production Systems  
-✅ Real-Time Applications  
+Software Engineer with a passion for building scalable, secure, and production-ready software.
+- 3+ years of professional software development experience across fintech, health-tech, and SaaS.
+- Backend & API specialist – microservices, RESTful APIs, event-driven architectures
+- AI integration – embedding ML and LLM capabilities into production platforms
+- Polyglot developer – JavaScript, TypeScript, Python, Go, Java, C++
+
+---
+## Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge\&logo=gin\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Databases & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+### Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
 
 ---
 
-## 🛠 Technology Stack
+## Let's Connect
 
-###  Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,go,java" />
-</p>
+<div align="center">
 
-###  Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
-</p>
+I'm always open to discussing new projects, collaboration opportunities, or just geeking out about tech. Reach out anytime!
 
-###  Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gizachewm.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gizachew.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizachew-mohammed/)
 
-###  Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=docker,firebase,git,github,linux" />
-</p>
-
-### 🤖 AI & Modern Systems
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+</div>
 
 ---
 
-##  Selected Projects
+<div align="center">
 
-###  Abe Garage Pro
-Enterprise garage management ecosystem delivering operational analytics and service automation.
+*"Building software that solves real problems — clean, scalable, and intelligent."*
 
-### Habesha Play
-Netflix-inspired streaming platform with modern UI and intelligent content discovery.
-
-###  House Rental Platform
-Full-stack property marketplace with advanced filtering, booking workflows, and payment systems.
-
-###  Kibkab Pharmacy System
-Business management platform featuring inventory tracking, CRM, and reporting dashboards.
-
-###  AI Resume Optimization Platform
-AI-powered system helping professionals improve CVs using real-time intelligent feedback.
-
----
-
-## Professional Experience
-
-### Freelance Software Engineer  
-**Jan 2023 – Present | Remote**
-- Design scalable backend systems and APIs
-- Deliver production-ready applications
-- Implement automation and performance optimization
-
-###  Software Engineer — GumiApps
-- Developed SaaS pharmacy management platform
-- Implemented authentication & role-based systems
-- Optimized database search using PostgreSQL
-
-###  Full-Stack Developer — Efuye Gela Tech
-- Built scalable web & mobile platforms
-- Developed APIs and responsive interfaces
-- Integrated third-party services and authentication
-
-###  Web Developer Intern — Evangadi Devshop
-- Contributed to production tutoring platform
-- Implemented responsive frontend systems
-- Worked in Agile engineering environment
-
-###  AI / Backend Engineer — A2SV
-- Built AI-powered career optimization platform
-- Developed Go-based chatbot backend
-- Designed scalable AI interaction architecture
-
----
-
-## 🏆 Engineering Impact
-
-- 🚀 10+ Production Applications Delivered  
-- 🌍 International Remote Collaboration  
-- ⚡ High-Performance Systems Handling Real Users  
-- 🧠 Mentored Developers in Full-Stack & DSA  
-- 📈 Built scalable SaaS and AI platforms  
-
----
-
-##  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GechDev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GechDev&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GechDev&layout=compact&theme=tokyonight" />
-</p>
-
-##  Connect With Me
-
-<p align="center">
-  <a href="https://gizachewm.com">
-    <img src="https://img.shields.io/badge/Portfolio-2A4D6E?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
-  <a href="mailto:gizachew.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gizachew-mohammed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">
-Code with Purpose 🚀 • Engineer for Scale • Build Intelligent Systems
-</h2>
+</div>
