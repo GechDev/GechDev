@@ -20,7 +20,6 @@ Software Engineer with a passion for building scalable, secure, and production-r
 - Backend & API specialist – microservices, RESTful APIs, event-driven architectures
 - AI integration – embedding ML and LLM capabilities into production platforms
 - Polyglot developer – JavaScript, TypeScript, Python, Go, Java, C++
-
 ---
 ## Tech Stack
 
